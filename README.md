@@ -200,7 +200,36 @@ main_activity.xml
    ```
 
 
-## Part 3
+
+
+#Step 3:  Valuse>string.xml
+
+```bash
+ 
+
+<resources>
+    <string name="app_name">Daily Moment</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+   
+
+
+
+</resources>
+
+  ``` 
+
+
+
+
+
+
+
+
+
+
+## Part 4
 
 main_activity.java
    ```bash
